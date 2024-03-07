@@ -1,5 +1,5 @@
 pandas
 numpy
-zipfile
+# zipfile
 nltk
-sklearn
+scikit-learn
